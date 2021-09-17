@@ -1,0 +1,15 @@
+.file__wrapper {
+    margin: 0.625em 0 0 0;
+    user-select: none;
+}
+
+.file__wrapper i {
+    margin-left: 1.25em;
+    color: white;
+}
+
+.file {
+    color: #CFCFCF;
+    display: inline;
+    margin-left: 0.3125em;
+}
